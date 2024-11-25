@@ -52,7 +52,7 @@ p.imgtitle {
 
 table,
 .frame {
-  border: 3px solid black;
+  border: 3px solid green;
   background-color: rgba(227, 225, 233, 0.8);
   text-align: center;
   border-collapse: collapse;
@@ -73,7 +73,7 @@ td, th{
 }
 
 th{
-  background-color: black;
+  background-color: green;
   color: white;
 
 }
